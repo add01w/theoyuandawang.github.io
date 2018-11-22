@@ -4,7 +4,7 @@ title: About this Site
 permalink: /about-this-site/
 ---
 
-Created and maintained by Brandon Azad. Last updated {{ site.time | date: "%Y-%m-%d" }}.
+Created and maintained by Theoyuandawang. Last updated {{ site.time | date: "%Y-%m-%d" }}.
 
 | <a href="https://jekyllrb.com" target="_blank">Jekyll</a>                                        | Static site generator    |
 | <a href="https://github.com/rohanchandra/type-theme" target="_blank">Type Theme</a>              | Base code for this theme |
