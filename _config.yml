@@ -1,25 +1,23 @@
 # SITE CONFIGURATION
-url: "https://bazad.github.io"
+url: "https://theoyuandawang.github.io"
 
-author: Brandon Azad
-title:  bazad.github.io
-logo:   bazad.svg
-description: "Brandon Azad's security blog"
+author: Theoyuandawang
+title:  theoyuandawang.github.io
+logo:   header.png
+description: "袁大网's life_repo"
 
 excerpt_separator: "<!--more-->"
 
 social:
-  - icon:           rss
-    url:            /feed.xml
-    description:    RSS feed
+
   - icon:           twitter
-    url:            https://twitter.com/_bazad
+    url:            https://twitter.com/Theoyuandawang
     description:    Twitter
   - icon:           github
-    url:            https://github.com/bazad
+    url:            https://github.com/theoyuandawang
     description:    Github
   - icon:           envelope
-    url:            mailto:bazad@cs.stanford.edu
+    url:            mailto:theoyuandawang@gmail.com
     description:    Email
 
 permalink: /:year/:month/:title/
